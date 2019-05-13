@@ -83,7 +83,7 @@
 ### Graphics
 
 Graphics that symbolize organisms:
-![Screenshot](docs/images/screen3.png)
+![Screenshot](docs/screens/screen3.png)
 are consequently:
 
 
