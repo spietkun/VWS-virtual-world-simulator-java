@@ -97,6 +97,7 @@ are consequently:
 | guarana    | 
 | belladonna |
 | hogweed   |
+| human   |
 
 - s - save current state 
  - l - load saved state 
