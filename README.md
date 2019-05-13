@@ -15,9 +15,12 @@
  
 ## Visuals
 
+
+**Gameplay**
 ![Screenshot](docs/screens/screen1.png)
 
 
+**Add organism menu**
 ![Screenshot](docs/screens/screen2.png)
 
 
