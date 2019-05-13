@@ -20,9 +20,6 @@
 ![Screenshot](docs/screens/screen2.png)
 
 
-![Screenshot](docs/images/screen2.png)
-
-
 ## Description
 
 ### General
@@ -83,7 +80,9 @@
 ### Graphics
 
 Graphics that symbolize organisms:
+
 ![Screenshot](docs/screens/screen3.png)
+
 are consequently:
 
 
