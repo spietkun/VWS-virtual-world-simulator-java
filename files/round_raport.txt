@@ -1,0 +1,4 @@
+Animals of the same species (Fox) - D[9,10] A[9,9] - met and try to BREED.
+An animal was born: Fox - its info is: str: 3, age: 0, gender: F, pos: [9, 11]
+Plant (Grass)[15,3] died of old age :(
+A plant was sowed: Grass - its info is: str: 0, age: 0, gender: P, pos: [17, 4]
