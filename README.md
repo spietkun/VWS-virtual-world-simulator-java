@@ -11,6 +11,7 @@
 	 - [Programming languages](#programming-languages)
 	 - [Graphics](#graphics)
  - [Usage](#usage)
+ - [Additional](#additional)
  
 ## Visuals
 
@@ -75,7 +76,7 @@
 
 ### Programming languages
 
- - C++ (objective)
+ - JAVA
  
 ### Graphics
 
@@ -99,11 +100,24 @@ are consequently:
 | hogweed   |
 | human   |
 
-- s - save current state 
- - l - load saved state 
- - a - activate alzur shield
+**Buttons**
+
+![Screenshot](docs/screens/screen4.png)
+
+are consequently:
+
+- save current state 
+- load saved state 
+- move up 
+- move down
+- move left
+- move right
+- activate alzur shield speciality
 
 ## Usage
 
  - university project
  - practising objective thinking
+ 
+## Additional
+If the user wants to open the .jar after compilation you need to copy the "Pictures" and "files" directories to the directory it is in.
